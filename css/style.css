@@ -117,7 +117,7 @@ p {
     width: 41.66%;
   }
   .col-md-6 {
-    width: 48%;
+    width: 48%; /*changed width for side spacing */ 
   }
   .col-md-7 {
     width: 58.33%;
@@ -135,7 +135,7 @@ p {
     width: 91.66%;
   }
   .col-md-12 {
-    width: 97.8%;
+    width: 97.8%; /* changed width for side spacing */ 
   }
 }
 
@@ -212,6 +212,6 @@ p {
 
     .col-sm-12
     {
-        width: 98%;
+        width: 98%; /* changed width for side spacing */ 
     }
 }
